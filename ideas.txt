@@ -1,1 +1,27 @@
-Hello World
+Yesterday's Meeting Summary:
+
+• To create an account, users will first have to accept the terms agreement
+• User's location is available for others to see
+• Users will be prompted to choose their food preferences when they first opened the app
+• Users can both buy and sell products / goods
+• User's profile includes information about the items they bought and sold
+• Users can upload their goods and other users will be able to view them
+
+• Goods are grouped into different categories and subcategories
+• Users (sellers) can display their goods and wait for other users (buyers) to send them orders
+• There are 2 ways of paying: buyers can either use real money (cash, gcash, paymaya, etc) or they can trade (buyers can trade their own good for the product that they want to buy)
+• Sellers, upon displaying their products for sell, will be prompted to choose if they will only accept payment thru cash, thru trading, or both
+
+• Buyers will be able to filter products (to show only those that can be bought with real money, trading, or both)
+• Buyers can choose any goods they want to buy and place orders
+• The seller will be notified when a buyer placed an order for their products
+• The seller can then decide if they will accept or decline those orders
+
+• Sellers and buyers can negotiate thru the app
+• We will provide couriers for them to hire for delivering the goods
+• A certain percentage of their payment for delivery will be used as funds for research institutes that are currently researching vaccines for the coronavirus
+
+• After the transaction, the seller and buyer will be able to anonymously give feedback / rate each other
+• These feedbacks will be displayed to the user's account for others to see
+
+• App settings include tagalog version on / off toggle
